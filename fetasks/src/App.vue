@@ -1,6 +1,7 @@
-<template>
+<template><div>
 <h1> FE Tasks</h1>
-<p>this is the first project</p>
+<p>this is the second project</p>
+<p>This the third project</p></div>
 </template>
 <script>
  import axios from "axios";
